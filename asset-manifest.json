@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/xpressDashboard/static/js/main.693731a5.js",
+    "static/media/Logo.png": "/xpressDashboard/static/media/Logo.4f7a64cf751f054a4078.png",
+    "index.html": "/xpressDashboard/index.html",
+    "main.693731a5.js.map": "/xpressDashboard/static/js/main.693731a5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.693731a5.js"
+  ]
+}
